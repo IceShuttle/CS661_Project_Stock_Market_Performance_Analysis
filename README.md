@@ -74,3 +74,12 @@ scipy
 - Use "git clone https://github.com/the-duckie-2/CS661_Project_Stock_Market_Performance_Analysis.git" to clone the project repository into an empty folder on your local system.
 - Run "pip install -r requirements.txt" to install all the dependencies you will need to deploy the dashboard.
 - Run "streamlit run Home.py" and the dashboard will open.
+
+---
+
+## 6. Contributors
+
+- Daksh Shettar ([the-duckie-2](https://github.com/the-duckie-2))
+- Shivang
+- Astitva Roy
+- Rinnegan-1249
